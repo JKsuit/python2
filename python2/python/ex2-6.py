@@ -1,0 +1,1 @@
+print((lambda n : (n[1]+200-n[0])%200)([int(i) for i in input().split()]))

@@ -1,0 +1,172 @@
+<div class="list-rst js-bookmark js-rst-cassette-wrap js-is-need-redirect"
+    data-detail-url="https://tabelog.com/osaka/A2701/A270108/27122577/" data-rst-id="27122577">
+    <div class="list-rst__bookmark js-void-opennewtab">
+        <div class="p-btn-bkm list-rst__bookmark-item">
+            <div class="p-btn-bkm__item list-rst__bookmark-btn js-bookmark-btn"></div>
+            <div class="p-btn-bkm__item list-rst__bookmark-btn js-hozon-btn"></div>
+        </div>
+    </div>
+    <div class="list-rst__wrap js-open-new-window" data-list-dest="item_top">
+        <div class="list-rst__body">
+            <div class="list-rst__contents">
+                <div class="list-rst__rst-data">
+                    <div class="list-rst__rst-name-wrap">
+                        <h3 class="list-rst__rst-name"><a class="list-rst__rst-name-target cpy-rst-name"
+                                data-list-dest="item_top" href="https://tabelog.com/osaka/A2701/A270108/27122577/"
+                                rel="noopener" target="_blank">焼肉 肉どうし 福島店</a>
+                        </h3>
+                        <div class="list-rst__area-genre cpy-area-genre"> 福島駅 83m / <mark
+                                class="list-rst__search-keyword">焼肉</mark>、牛料理、居酒屋
+                        </div>
+                    </div>
+                    <div class="list-rst__pr">
+                        <p class="list-rst__pr-title cpy-pr-title">
+                            JR環状線福島駅徒歩３分！抜群の旨いタレと韓国料理の美味しい焼肉店！
+                        </p>
+                    </div>
+                    <div class="list-rst__rate">
+                        <p class="c-rating c-rating--xxl c-rating--val30 list-rst__rating-total cpy-total-score">
+                            <i class="c-rating__star list-rst__rating-star"></i><span
+                                class="c-rating__val c-rating__val--strong list-rst__rating-val">3.07</span>
+                        </p>
+                        <p class="list-rst__rvw-count">
+                            <i aria-label="口コミ人数" class="list-rst__rvw-count-subject gly-b-review" role="img"></i><a
+                                class="list-rst__rvw-count-target" data-list-dest="item_rvw_list" data-rd-pos="rvcnt"
+                                data-url="https://tabelog.com/osaka/A2701/A270108/27122577/dtlrvwlst/"
+                                href="https://tabelog.com/osaka/A2701/A270108/27122577/dtlrvwlst/"><em
+                                    class="list-rst__rvw-count-num cpy-review-count">25</em>人</a>
+                        </p>
+                        <p class="list-rst__save-count">
+                            <i aria-label="保存人数" class="list-rst__save-count-icon gly-b-save2" role="img"></i><span
+                                class="list-rst__save-count-target"><span
+                                    class="list-rst__save-count-num u-text-num">2211</span>人</span>
+                        </p>
+                    </div>
+                    <ul class="list-rst__info">
+                        <li class="c-rating-v3 list-rst__info-item">
+                            <i aria-label="夜の予算" class="c-rating-v3__time c-rating-v3__time--dinner"
+                                role="img"></i><span class="c-rating-v3__val">￥4,000～￥4,999</span>
+                        </li>
+                        <li class="c-rating-v3 list-rst__info-item">
+                            <i aria-label="昼の予算" class="c-rating-v3__time c-rating-v3__time--lunch" role="img"></i><span
+                                class="c-rating-v3__val">-</span>
+                        </li>
+                    </ul>
+                    <ul class="list-rst__search-word">
+                        <li class="list-rst__search-word-item">
+                            感染症対策
+                        </li>
+                        <li class="list-rst__search-word-item list-rst__search-word-item--tpoint">
+                            <div class="list-rst__rst-info cpy-info">
+                                <div class="list-rst__tpoint">
+                                    <p class="list-rst__tpoint-info">
+                                        <span
+                                            class="c-badge-tpoint list-rst__tpoint-info-icon"><i>Tpoint</i></span>貯まる・使える
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li
+                            class="list-rst__search-word-item list-rst__search-word-item--tpoint list-rst__search-word-item--first-time-booking">
+                            <div class="list-rst__rst-info cpy-info">
+                                <div class="list-rst__tpoint">
+                                    <p class="list-rst__tpoint-info">
+                                        <span
+                                            class="c-badge-tpoint list-rst__tpoint-info-icon"><i>Tpoint</i></span>初回ネット予約で1,000pt
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="list-rst__comment-wrap js-rst-review" data-review="4_461173496_">
+                <div class="list-rst__comment list-rst__comment--hover js-open-review-window"
+                    data-detail-url="https://tabelog.com/osaka/A2701/A270108/27122577/dtlrvwlst/B461173496/"
+                    data-list-dest="item_rvw_dtl" data-reviewtype="auto-pickuped"><a
+                        class="list-rst__comment-text cpy-comment-text" data-list-dest="item_rvw_dtl"
+                        href="https://tabelog.com/osaka/A2701/A270108/27122577/dtlrvwlst/B461173496/">
+                        <strong>JR福島駅すぐのめちゃ美味しい焼肉♡分厚いお肉は柔らかくて甘い♡</strong></a>
+                    <div class="list-rst__author-rvw-txt-wrap">
+                        <span class="list-rst__author-rvw-txt">JR福島駅すぐのめちゃ美味しい焼肉
+                            コスパが良く店内も綺麗でおすすめ
+                            焼肉は鉄板で焼き、煙...</span><span class="list-rst__author"><span
+                                class="list-rst__author-by">by</span> <a class="list-rst__author-name"
+                                href="https://tabelog.com/rvwr/002005637/">みさみさ321(293)</a></span>
+                    </div>
+                </div>
+            </div>
+            <a class="list-rst__favorite-rvwr js-follow-reviewer-fav" data-list-dest="item_rvw_dtl"
+                data-rst-id="27122577"
+                href="https://tabelog.com/osaka/A2701/A270108/27122577/dtlrvwlst/?rvw_part=favorite_rvwr"
+                style="display:none">
+                <div class="list-rst__favorite-bg">
+                    <ul class="list-rst__favorite-box">
+                        <li class="list-rst__favorite-images js-follow-reviewer-images"></li>
+                        <li class="list-rst__favorite-text js-follow-reviewer-text"></li>
+                    </ul>
+                </div>
+            </a>
+            <div class="list-rst__rst-photo js-rst-image-wrap"
+                data-photo-set="185710716,185710757,185710744,161451909,185710849">
+                <div class="list-rst__photo-frame js-rst-image">
+                    <div class="list-rst__photo-item"><a class="list-rst__image-target"
+                            data-img-event="large_item_image" data-list-dest="item_top"
+                            href="https://tabelog.com/osaka/A2701/A270108/27122577/">
+                            <div class="list-rst__photo-item list-rst__photo-item--cover js-cassette-img js-switch-thumbnail-img"
+                                data-img-id="185710716" data-img-index="0"
+                                data-original="https://tblg.k-img.com/restaurant/images/Rvw/185710/320x320_square_fbeb064a2da0833381b1794e72d46e24.jpg"
+                                style='background-image: url("https://tblg.k-img.com/restaurant/images/Rvw/185710/320x320_square_fbeb064a2da0833381b1794e72d46e24.jpg")'>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <ul class="list-rst__thumb-list">
+                    <li class="list-rst__thumb-item cpy-thumb-image">
+                        <p class="list-rst__thumb-image"><a class="list-rst__image-target "
+                                data-img-event="small_item_image" data-list-dest="item_top"
+                                href="https://tabelog.com/osaka/A2701/A270108/27122577/">
+                                <img alt="焼肉 肉どうし 福島店"
+                                    class="js-thumbnail-img js-switch-thumbnail-img js-lazyload-image js-cassette-img js-analytics"
+                                    data-img-id="185710716" data-img-index="0"
+                                    data-lazy="https://tblg.k-img.com/restaurant/images/Rvw/185710/320x320_square_fbeb064a2da0833381b1794e72d46e24.jpg"
+                                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a>
+                        </p>
+                    </li>
+                    <li class="list-rst__thumb-item cpy-thumb-image">
+                        <p class="list-rst__thumb-image"><a class="list-rst__image-target "
+                                data-img-event="small_item_image" data-list-dest="item_top"
+                                href="https://tabelog.com/osaka/A2701/A270108/27122577/">
+                                <img alt="焼肉 肉どうし 福島店"
+                                    class="js-thumbnail-img js-switch-thumbnail-img js-lazyload-image js-cassette-img js-analytics"
+                                    data-img-id="185710757" data-img-index="1"
+                                    data-lazy="https://tblg.k-img.com/restaurant/images/Rvw/185710/320x320_square_df2086aace72eeb9828849b20f0dacaa.jpg"
+                                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a>
+                        </p>
+                    </li>
+                    <li class="list-rst__thumb-item cpy-thumb-image">
+                        <p class="list-rst__thumb-image"><a class="list-rst__image-target "
+                                data-img-event="small_item_image" data-list-dest="item_top"
+                                href="https://tabelog.com/osaka/A2701/A270108/27122577/">
+                                <img alt="焼肉 肉どうし 福島店"
+                                    class="js-thumbnail-img js-switch-thumbnail-img js-lazyload-image js-cassette-img js-analytics"
+                                    data-img-id="185710744" data-img-index="2"
+                                    data-lazy="https://tblg.k-img.com/restaurant/images/Rvw/185710/320x320_square_ba72ed1fba5d2b2000b98a3ddae60ccc.jpg"
+                                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="list-rst__calendar-frame">
+        <div class="list-rst__calendar-title">
+            <span>ネット予約</span><span>空席情報</span>
+        </div>
+        <div class="js-rstlist-calendar-wrap list-rst__calendar" data-rst-id="27122577">
+            <p class="list-rst__calendar-loader">
+                <span class="c-loader c-loader--xs list-rst__calendar-loader-icon"></span>
+            </p>
+        </div>
+    </div>
+</div>
